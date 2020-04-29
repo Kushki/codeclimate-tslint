@@ -59,7 +59,7 @@
     "@kushki/tslint": "^5.0.2",
     "@types/handlebars": "^4.0.32",
     "codelyzer": "^4.0.2",
-    "handlebars": "^4.0.6",
+    "handlebars": "^4.6.0",
     "json-comments": "^0.2.1",
     "lodash": "^4.17.4",
     "prettier": "^1.10.2",
